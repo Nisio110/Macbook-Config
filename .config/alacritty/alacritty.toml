@@ -1,0 +1,40 @@
+
+### Windows only
+# [terminal]
+# shell = {program = "C:\\Program Files\\PowerShell\\7\\pwsh.exe"}
+##
+
+[general]
+# working_directory = "C:\\Users\\oisin\\" # Windows home folder
+working_directory = "~/" # Linux/MacOS home folder
+
+### OS specific settings
+[window]
+dimensions = {columns = 90, lines = 25}
+opacity = 0.6
+padding = {x = 10, y = 30}
+### MacOS only settings
+decorations = "Transparent" 
+blur = true
+##
+
+[font]
+normal = {family = "Monocraft Nerd Font", style = "Regular"}
+bold = {family = "Monocraft", style = "Bold"}
+italic = {family = "Monocraft", style = "Italic"}
+size = 16
+builtin_box_drawing = true
+
+[colors]
+primary = {background = '#37133f',foreground = '#b47db4'}
+cursor = {text = '#37133f', cursor = '#be7dbe'}
+vi_mode_cursor = {text = '#37133f', cursor = '#be7dbe'}
+transparent_background_colors = true
+draw_bold_text_with_bright_colors = true
+
+[selection]
+save_to_clipboard = true # Figure out how this works
+
+[cursor]
+style = {shape = "Block", blinking = "On"}
+blink_timeout = 15

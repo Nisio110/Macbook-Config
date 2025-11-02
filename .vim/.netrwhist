@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/Studying/Sigsys - Discrete Systems'
+let g:netrw_dirhist_7='/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/Studying'
+let g:netrw_dirhist_6='/Users/Oisin/Applications/Undertale.app'
+let g:netrw_dirhist_5='/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/PROGRAMMING/Code Projects/LAB04/Task02/build'
+let g:netrw_dirhist_4='/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/PROGRAMMING/Code Projects/LAB04/Task02'
+let g:netrw_dirhist_3='/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/PROGRAMMING/Code Projects'
+let g:netrw_dirhist_2='/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/PROGRAMMING/Code Projects/LAB05'
+let g:netrw_dirhist_1='/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/PROGRAMMING/Code Projects/LAB05/Task01'

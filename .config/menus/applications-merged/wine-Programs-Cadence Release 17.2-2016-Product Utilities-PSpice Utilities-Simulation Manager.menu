@@ -1,0 +1,28 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Cadence Release 17.2-2016</Name>
+    <Directory>wine-Programs-Cadence Release 17.2-2016.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Cadence Release 17.2-2016-Product Utilities</Name>
+    <Directory>wine-Programs-Cadence Release 17.2-2016-Product Utilities.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-Cadence Release 17.2-2016-Product Utilities-PSpice Utilities</Name>
+    <Directory>wine-Programs-Cadence Release 17.2-2016-Product Utilities-PSpice Utilities.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-Cadence Release 17.2-2016-Product Utilities-PSpice Utilities-Simulation Manager.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>
