@@ -6,8 +6,8 @@
   <property name="pressureMultiplier" value="1"/>
   <property name="zoomGesturesEnabled" value="true"/>
   <property name="selectedToolbar" value="Right hand Note Taking Copy"/>
-  <property name="lastSavePath" value="/Users/Oisin/Library/CloudStorage/OneDrive-Personal/College - Y2/Electrical Systems/Labs/Lab Tracking"/>
-  <property name="lastOpenPath" value="/Users/Oisin/OneDrive/College - Y2/ELECTRICAL SYSTEMS/Xournal"/>
+  <property name="lastSavePath" value="/Users/Oisin/OneDrive/College - Y2/Analogue Electronics/Labs/Lab Tracking/Integrator OpAmp Lab [Assessed]"/>
+  <property name="lastOpenPath" value="/Users/Oisin/OneDrive/College - Y2/ELECTRICAL SYSTEMS/Notes/Mine/Xournal"/>
   <property name="lastImagePath" value=""/>
   <property name="edgePanSpeed" value="20"/>
   <property name="edgePanMaxMult" value="5"/>
@@ -100,7 +100,7 @@
   <property name="audioSampleRate" value="44100"/>
   <property name="audioGain" value="1"/>
   <property name="defaultSeekTime" value="5"/>
-  <property name="pluginEnabled" value="/Users/Oisin/.config/xournalpp/plugins/vi-xournalpp"/>
+  <property name="pluginEnabled" value="/Applications/Xournal++.app/Contents/Resources/plugins/Export,/Applications/Xournal++.app/Contents/Resources/plugins/ToggleGrid,/Users/Oisin/.config/xournalpp/plugins/vi-xournalpp"/>
   <property name="pluginDisabled" value=""/>
   <property name="strokeFilterIgnoreTime" value="150"/>
   <property name="strokeFilterIgnoreLength" value="1"/>
@@ -184,7 +184,7 @@
     <attribute name="count" type="int" value="9"/>
   </data>
   <data name="tools">
-    <attribute name="current" type="string" value="pen"/>
+    <attribute name="current" type="string" value="selectRegion"/>
     <data name="drawArrow">
       <attribute name="drawingType" type="string" value="default"/>
     </data>
@@ -253,13 +253,13 @@
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="selectRegion">
-      <attribute name="drawingType" type="string" value="line"/>
+      <attribute name="drawingType" type="string" value="rectangle"/>
     </data>
     <data name="showFloatingToolbox">
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="text">
-      <attribute name="color" type="hex" value="f8f8f2"/>
+      <attribute name="color" type="hex" value="bd93f9"/>
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="verticalSpace">

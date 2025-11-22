@@ -1,0 +1,12 @@
+# [opener]
+# rules = [
+#   { name = "*/", run = '$EDITOR "$@"', desc = "edit dir"},
+#   { name = "*", run = '$EDITOR "$@"', desc = "edit file"},
+# ]
+
+[mgr]
+ratio = [1,2,3]
+
+[[mgr.prepend_keymap]]
+on = "<C-p>"
+run = 'shell -- qlmanage -p "$@"'

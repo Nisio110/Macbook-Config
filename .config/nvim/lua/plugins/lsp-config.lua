@@ -25,7 +25,9 @@ return {
       --lspconfig.clangd.setup({
        -- capabilities = capabilities
       --})
-
+      vim.lsp.config.asm_lsp = {
+        filetypes = { "asm", "vmasm" },
+      }
       vim.keymap.set('n', 'K', vim.lsp.buf.hover, {})
       vim.keymap.set('n', 'gd', vim.lsp.buf.definition, {})
       vim.keymap.set('n', 'gr', vim.lsp.buf.references, {})
