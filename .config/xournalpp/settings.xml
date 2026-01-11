@@ -6,8 +6,8 @@
   <property name="pressureMultiplier" value="1"/>
   <property name="zoomGesturesEnabled" value="true"/>
   <property name="selectedToolbar" value="Right hand Note Taking Copy"/>
-  <property name="lastSavePath" value="/Users/Oisin/OneDrive/College - Y2/Analogue Electronics/Labs/Lab Tracking/Integrator OpAmp Lab [Assessed]"/>
-  <property name="lastOpenPath" value="/Users/Oisin/OneDrive/College - Y2/ELECTRICAL SYSTEMS/Notes/Mine/Xournal"/>
+  <property name="lastSavePath" value="/Users/Oisin/OneDrive/College - Y2/Analogue Electronics/Notes/Mine/Xournal"/>
+  <property name="lastOpenPath" value="/Users/Oisin/OneDrive/College - Y2/Analogue Electronics/Notes/Mine/Xournal"/>
   <property name="lastImagePath" value=""/>
   <property name="edgePanSpeed" value="20"/>
   <property name="edgePanMaxMult" value="5"/>
@@ -184,7 +184,7 @@
     <attribute name="count" type="int" value="9"/>
   </data>
   <data name="tools">
-    <attribute name="current" type="string" value="selectRegion"/>
+    <attribute name="current" type="string" value="pen"/>
     <data name="drawArrow">
       <attribute name="drawingType" type="string" value="default"/>
     </data>
@@ -204,7 +204,7 @@
       <attribute name="drawingType" type="string" value="default"/>
     </data>
     <data name="eraser">
-      <attribute name="drawingType" type="string" value="default"/>
+      <attribute name="drawingType" type="string" value="rectangle"/>
       <attribute name="size" type="string" value="THIN"/>
       <attribute name="type" type="string" value="deleteStroke"/>
     </data>
@@ -226,7 +226,7 @@
       <attribute name="drawingType" type="string" value="rectangle"/>
       <attribute name="fill" type="int" value="0"/>
       <attribute name="fillAlpha" type="int" value="128"/>
-      <attribute name="size" type="string" value="THIN"/>
+      <attribute name="size" type="string" value="MEDIUM"/>
       <attribute name="style" type="string" value="plain"/>
     </data>
     <data name="playObject">
@@ -260,7 +260,7 @@
     </data>
     <data name="text">
       <attribute name="color" type="hex" value="bd93f9"/>
-      <attribute name="drawingType" type="string" value="default"/>
+      <attribute name="drawingType" type="string" value="line"/>
     </data>
     <data name="verticalSpace">
       <attribute name="drawingType" type="string" value="default"/>
