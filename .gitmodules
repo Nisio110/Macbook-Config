@@ -10,3 +10,6 @@
 [submodule "shell-rc"]
 	path = shell-rc
 	url = git@github.com:Nisio110/shell-config.git
+[submodule "xournalpp/plugins/vi-xournalpp"]
+	path = xournalpp/plugins/vi-xournalpp
+	url = https://github.com/lryffel/vi-xournalpp
