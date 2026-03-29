@@ -1,0 +1,12 @@
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:Nisio110/tmux-config.git
+[submodule "kitty"]
+	path = kitty
+	url = git@github.com:Nisio110/kitty-config.git
+[submodule "yazi"]
+	path = yazi
+	url = git@github.com:Nisio110/yazi-config.git
+[submodule "shell-rc"]
+	path = shell-rc
+	url = git@github.com:Nisio110/shell-config.git
